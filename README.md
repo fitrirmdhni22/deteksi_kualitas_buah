@@ -1,7 +1,7 @@
 # 🍎 Deteksi Kualitas Buah Menggunakan Pengolahan Citra Digital
 
 > Project UAS Mata Kuliah Pengolahan Citra Digital  
-> Program Studi Teknik Informatika — Universitas Pelita Bangsa  
+> Program Studi Teknik Informatika  
 > Semester Gasal TA 2025/2026
 
 ---
