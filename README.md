@@ -43,10 +43,10 @@ Aplikasi desktop berbasis **Python + Tkinter** yang mampu mendeteksi kualitas bu
 ## 🛠️ Teknologi yang Digunakan
 
 - **Python 3.x**
-- **OpenCV** — pemrosesan citra (grayscale, blur, edge, segmentasi)
-- **NumPy** — operasi matriks dan array
-- **Pillow (PIL)** — konversi gambar untuk ditampilkan di Tkinter
-- **Tkinter** — GUI desktop
+- **OpenCV**  pemrosesan citra (grayscale, blur, edge, segmentasi)
+- **NumPy**  operasi matriks dan array
+- **Pillow (PIL)**  konversi gambar untuk ditampilkan di Tkinter
+- **Tkinter**  GUI desktop
 
 ---
 
