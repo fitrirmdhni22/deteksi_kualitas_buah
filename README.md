@@ -69,7 +69,7 @@ pip install opencv-python numpy pillow
 ## 🚀 Cara Menjalankan
 
 ```bash
-python deteksi_kualitas_buah.py
+python uas_pc_deteksi_buah.py
 ```
 
 ---
@@ -193,7 +193,7 @@ Kesehatan       :  91.7%
 H (Hue)         :  18.4
 S (Saturation)  :  140.2
 V (Value)       :  178.6
-Waktu Proses    :  0.034s
+Waktu Proses    :  0.034ms
 ```
 
 ---
