@@ -74,23 +74,37 @@ python deteksi_kualitas_buah.py
 
 ---
 
-## 🗂️ Struktur Folder
-
 ```
 uas/
 │
-├── uas_pc_deteksi_buah.py    # File utama aplikasi
-├── README.md                   # Dokumentasi ini
+├── uas_pc_deteksi_buah.py          # File utama aplikasi
+├── README.md                        # Dokumentasi ini
 │
-└── dataset_buah/               # Folder dataset (siapkan sendiri)
-    ├── bagus/                  # 10 gambar buah bagus
-    │   ├── buah_bagus_01.jpg
-    │   ├── buah_bagus_02.jpg
-    │   └── ...
-    └── busuk/                  # 10 gambar buah busuk
-        ├── buah_busuk_01.jpg
-        ├── buah_busuk_02.jpg
-        └── ...
+└── dataset_buah/                    # Folder dataset (20 gambar)
+    │
+    ├── segar/                       # 10 gambar buah segar/bagus
+    │   ├── anggur_segar_01.jpg
+    │   ├── anggur_segar_02.jpg
+    │   ├── apel_segar_01.jpg
+    │   ├── apel_segar_02.jpg
+    │   ├── jeruk_segar_01.jpg
+    │   ├── jeruk_segar_02.jpg
+    │   ├── pisang_segar_01.jpg
+    │   ├── pisang_segar_02.jpg
+    │   ├── tomat_segar_01.jpg
+    │   └── tomat_segar_02.jpg
+    │
+    └── busuk/                       # 10 gambar buah busuk
+        ├── anggur_busuk_01.jpg
+        ├── anggur_busuk_02.jpg
+        ├── apel_busuk_01.jpg
+        ├── apel_busuk_02.jpg
+        ├── jeruk_busuk_01.jpg
+        ├── jeruk_busuk_02.jpg
+        ├── pisang_busuk_01.jpg
+        ├── pisang_busuk_02.jpg
+        ├── tomat_busuk_01.jpg
+        └── tomat_busuk_02.jpg
 ```
 
 ---
