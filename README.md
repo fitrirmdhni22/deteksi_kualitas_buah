@@ -83,11 +83,11 @@ project/
 ├── README.md                   # Dokumentasi ini
 │
 └── dataset_buah/               # Folder dataset (siapkan sendiri)
-    ├── bagus/                  # 12 gambar buah bagus
+    ├── bagus/                  # 10 gambar buah bagus
     │   ├── buah_bagus_01.jpg
     │   ├── buah_bagus_02.jpg
     │   └── ...
-    └── busuk/                  # 12 gambar buah busuk
+    └── busuk/                  # 10 gambar buah busuk
         ├── buah_busuk_01.jpg
         ├── buah_busuk_02.jpg
         └── ...
