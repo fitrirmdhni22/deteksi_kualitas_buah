@@ -77,9 +77,9 @@ python deteksi_kualitas_buah.py
 ## 🗂️ Struktur Folder
 
 ```
-project/
+uas/
 │
-├── deteksi_kualitas_buah.py    # File utama aplikasi
+├── uas_pc_deteksi_buah.py    # File utama aplikasi
 ├── README.md                   # Dokumentasi ini
 │
 └── dataset_buah/               # Folder dataset (siapkan sendiri)
