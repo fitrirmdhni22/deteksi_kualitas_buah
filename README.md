@@ -32,7 +32,7 @@ Aplikasi desktop berbasis **Python + Tkinter** yang mampu mendeteksi kualitas bu
 | 2 | Konversi RGB ke Biner (Thresholding Otsu) | ✅ |
 | 3 | Histogram Equalization | ✅ |
 | 4 | Gaussian Filter (Noise Reduction) | ✅ |
-| 5 | Edge Detection — Canny | ✅ |
+| 5 | Edge Detection  Canny | ✅ |
 | 6 | Segmentasi Citra (Adaptive Thresholding) | ✅ |
 | 7 | Analisis Warna HSV | ✅ |
 | 8 | GUI Berbasis Tkinter | ✅ |
