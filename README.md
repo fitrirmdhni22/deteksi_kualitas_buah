@@ -186,11 +186,11 @@ Waktu Proses    :  0.034s
 
 ## 📁 Dataset
 
-- Total gambar: **24 gambar**
-  - 12 gambar buah **bagus** (segar, tidak ada bercak)
-  - 12 gambar buah **busuk** (ada bercak hitam/coklat, layu)
+- Total gambar: **20 gambar**
+  - 10 gambar buah **bagus** (segar, tidak ada bercak)
+  - 10 gambar buah **busuk** (ada bercak hitam/coklat, layu)
 - Format yang didukung: `.jpg`, `.jpeg`, `.png`, `.bmp`, `.tiff`, `.webp`
-- Tema dataset: buah-buahan (apel, jeruk, pisang, mangga, dll.)
+- Tema dataset: buah-buahan (anggur, apel, jeruk, pisang, tomat, dll.)
 
 ---
 
